@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:Helvetica, sans-serif;
+}
+ body{
+    text-align: center;
+    background-color: white;
+ }
+/*Cabeçalho */
+header {
+    background-color: seagreen;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+ .OutrasPaginas {
+    background-color: rgba(46, 139, 86, 0.76);
+   color: white;
+ }
+a {
+    color: white;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    font-size: larger;
+
+}
+.Espaco {
+    background-color: white;
+}
+ 
+
+/*Sobre o Restaurante */
+
+.SobreRestaurante {
+    background-color: white;
+    color:#76b947;
+    font-size: x-large;
+    padding: 20px;
+    
+    
+}
+.sobre {
+    background-color: white;
+    padding: 20px;
+    font-size: larger;
+    font-style: oblique;
+}
+
+ 
+img {
+    width: 500px;
+    height: auto;
+
+
+}
+
+/*Serviços*/
+.Trabalho {
+    text-align: center;
+    background-color: #b1d8b7;
+    margin: 0 250px;
+    padding: 15px;
+    border-radius: 5px;
+    
+}
+.TituloS {
+    background-color: seagreen;
+    padding: 15px;
+    color: white;
+}
+
+
+
+/*Avaliações */
+
+.AvalTitulo {
+    background-color: #76b947;
+    padding: 20px;
+    color: white;
+}
+
+
+
+
+.Avaliacoes {
+    text-align: justify;
+    background-color: white;
+    padding: 15px;
+}
+.star {
+    color: gold;
+}
+
+/* Footer*/
+footer {
+    background-color:seagreen;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}

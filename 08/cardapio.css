@@ -1,0 +1,82 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:Helvetica, sans-serif;
+}
+ body{
+    text-align: center;
+ }
+/*Cabeçalho */
+header {
+    background-color: seagreen;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Pratos de comida */ 
+.container {
+    background-color: rgb(222, 243, 216);
+    min-height: 60vh;
+    padding: 50px;    
+}
+
+.products-container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+ .card {
+width: 31;
+display: inline-block;
+margin: 1% 1%;
+padding: 15px;
+ }
+
+
+ .product-image {
+    height: 300px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+
+ }
+
+#img-1 {
+    background-image: url(comida-de-verdade.webp)
+    
+}
+
+#img-2 {
+    background-image: url(prato-saud-vel.jpg)
+    
+}
+
+#img-3 {
+    background-image: url(refeicao.webp)
+}
+
+#img-4 {
+    background-image: url(mini_alimentação-696x464.png)
+}
+
+#img-5 {
+    background-image: url(comida-de-verdade.webp)
+}
+
+#img-6 {
+    background-image: url(refeicao.webp)
+}
+
+
+/* Footer*/
+footer {
+    background-color: seagreen;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+

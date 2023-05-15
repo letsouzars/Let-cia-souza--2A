@@ -1,0 +1,112 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:Helvetica, sans-serif;
+}
+ body{
+    text-align: center;
+    background-color: #f4f6fc;
+}
+
+/*Cabeçalho */
+header {
+    background-color: #5ce1e6;
+    color:white;
+    padding: 15px;
+    text-align: center;
+}
+/*Banner */
+img {
+    width: 1000px;
+    height: auto;
+}
+
+/*Corpinho */
+
+.Tabela {
+    background-color: #050a30;
+    color: white;
+    padding: 15px;
+}
+
+
+
+table{
+    text-align: center;
+    background-color: #5ce1e6;
+}
+
+/*Fotos */
+*imagens */
+.container {
+    background-color: #f3e9d4;
+    min-height: 60vh;
+    padding: 50px;    
+}
+
+.products-container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+ .card {
+width: 31;
+display: inline-block;
+margin: 1% 1%;
+padding: 15px;
+ }
+
+
+ .product-image {
+    height: 300px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+
+ }
+#img-1 {
+    background-image: url(mec\,1.jpg)
+    
+}
+
+#img-2 {
+    background-image: url(mec.2.png)
+    
+}
+
+#img-3 {
+    background-image: url(mec.3.jpg)
+}
+
+#img-4 {
+    background-image: url(mec.4.jpg)
+}
+
+#img-5 {
+    background-image: url(mec.5.webp)
+}
+
+#img-6 {
+    background-image: url(mec.6.jpg)
+}
+
+
+/*Avaliacaoes */
+ .Aval {
+    background-color: #050a30;
+    padding: 15px;
+    color: white;
+ }
+
+ .star {
+    color: gold;
+}
+
+.Avaliacoes {
+    text-align: justify;
+    background-color: white;
+    padding: 15px;
+}

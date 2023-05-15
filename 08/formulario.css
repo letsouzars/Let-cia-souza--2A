@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:Helvetica, sans-serif;
+}
+body {
+    text-align: center;
+}
+/*Cabeçalho */
+
+header {
+    background-color: seagreen;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.Segundo {
+    background-color:  rgba(46, 139, 86, 0.76);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+/*Corpinho */
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.formulario {
+    background-color: #b1d8b7;
+    padding: 15px;
+   
+}
+
+/* Footer*/
+footer {
+    background-color:seagreen;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}

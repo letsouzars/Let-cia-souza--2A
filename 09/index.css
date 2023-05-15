@@ -1,0 +1,110 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:Helvetica, sans-serif;
+}
+ body{
+    text-align: center;
+}
+
+/*Cabeçalho */
+header {
+    background-color: #e7b037;
+    color:white;
+    padding: 15px;
+    text-align: center;
+}
+/*Banner */
+img {
+    width: 1000px;
+    height: auto;
+}
+
+/*Sobre o parque */
+
+.Trabalho {
+    text-align: center;
+    background-color: #e7b037;
+    margin: 0 250px;
+    padding: 15px;
+    border-radius: 5px;
+    color: black
+    
+}
+.TituloS {
+    background-color: #f0ca77;
+    padding: 15px;
+    color: white;
+}
+
+/*imagens */
+.container {
+    background-color: #f3e9d4;
+    min-height: 60vh;
+    padding: 50px;    
+}
+
+.products-container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+ .card {
+width: 31;
+display: inline-block;
+margin: 1% 1%;
+padding: 15px;
+ }
+
+
+ .product-image {
+    height: 300px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+
+ }
+
+#img-1 {
+    background-image: url(img\ 1.webp)
+    
+}
+
+#img-2 {
+    background-image: url(img\ 2.webp)
+    
+}
+
+#img-3 {
+    background-image: url(img\ 3.jpg)
+}
+
+#img-4 {
+    background-image: url(img\ 4.webp)
+}
+
+#img-5 {
+    background-image: url(img\ 5.jpg)
+}
+
+#img-6 {
+    background-image: url(img\ 6.jpg)
+}
+
+
+/*Avaliações */
+.Avaliacoes {
+    text-align: justify;
+    background-color: white;
+    padding: 15px;
+    margin: 0 100px;
+}
+.star {
+    color: gold;
+}
+b {
+    font-size: large;
+}
